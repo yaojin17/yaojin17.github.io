@@ -45,7 +45,7 @@ Chen Gong, Kecen Li, **Jin Yao**, Tianhao Wang
 
 **Jin Yao**, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
 
- [Paper](https://aclanthology.org/2024.acl-long.457/) | [arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM)｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
+ [Paper](https://aclanthology.org/2024.acl-long.457/)|[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM)｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
 
 **ACL 2024**
 </div>

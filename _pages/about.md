@@ -23,18 +23,17 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/trajdeleter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**TrajDeleter: Enabling Trajectory Forgetting in Offline Reinforcement Learning Agents**
+**Open Vocabulary Monocular 3D Object Detection**
 
-Chen Gong, Kecen Li, **Jin Yao**, Tianhao Wang
+**Jin Yao**, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
 
-[arxiv](https://arxiv.org/abs/2404.12530)｜[Code](https://github.com/2019ChenGong/TrajDeleter/tree/Review)
+[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)
 
-**NDSS 2025**
 </div>
 </div>
 

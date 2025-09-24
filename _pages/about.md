@@ -25,7 +25,21 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/LA3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LabelAny3D: Label Any Object 3D in the Wild**
+
+**Jin Yao**\*, Radowan Mahmud Redoy\*, Sebastian Elbaum, Matthew B. Dwyer, Zezhou Cheng
+
+<!-- [arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) -->
+Coming soon
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Open Vocabulary Monocular 3D Object Detection**
@@ -37,7 +51,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/llmunlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/papers/llmunlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Machine Unlearning of Pre-trained Large Language Models**
@@ -46,7 +60,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
  [Paper](https://aclanthology.org/2024.acl-long.457/)｜[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM)｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
 
-**ACL 2024**
+<!-- **ACL 2024** -->
 </div>
 </div>
 

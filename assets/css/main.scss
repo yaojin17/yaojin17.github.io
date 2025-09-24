@@ -56,7 +56,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
+            max-width: 500px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -70,15 +70,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 30%;
+            min-width: 250px;
+            max-width: 35%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 70%;
+            max-width: 65%;
             order: 2;
         }
 
@@ -100,10 +100,16 @@ h1:before, .anchor:before {
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    margin-top: 0em;
+    margin-left: 0;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background-color: #0052cc;
+    font-size: 0.83em;
+    font-weight: 600;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    letter-spacing: 1px;
 }

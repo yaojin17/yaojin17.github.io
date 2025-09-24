@@ -10,6 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
+
 I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. My research interest lies in 3D Vision. 
 
 
@@ -22,6 +24,8 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<br>
 
 # 📝 Selected Publications 
 

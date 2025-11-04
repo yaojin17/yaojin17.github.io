@@ -36,8 +36,9 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 **Jin Yao**\*, Radowan Mahmud Redoy\*, Sebastian Elbaum, Matthew B. Dwyer, Zezhou Cheng
 
-<!-- [arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) -->
-Coming soon
+[Paper](https://openreview.net/pdf?id=Q2fU0JDHuW) ｜[Project Page](https://uva-computer-vision-lab.github.io/LabelAny3D/)
+<!-- ｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) -->
+
 
 </div>
 </div>

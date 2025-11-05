@@ -44,7 +44,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/papers/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Open Vocabulary Monocular 3D Object Detection**

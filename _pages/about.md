@@ -37,7 +37,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 **Jin Yao**\*, Radowan Mahmud Redoy\*, Sebastian Elbaum, Matthew B. Dwyer, Zezhou Cheng
 
 [Paper](https://openreview.net/pdf?id=Q2fU0JDHuW) ｜[Project Page](https://uva-computer-vision-lab.github.io/LabelAny3D/)
-｜[Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D)
+｜[Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) [![GitHub stars](https://img.shields.io/github/stars/UVA-Computer-Vision-Lab/LabelAny3D?style=social)](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D)
 
 
 </div>
@@ -51,7 +51,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 **Jin Yao**, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
 
-[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)
+[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) [![GitHub stars](https://img.shields.io/github/stars/UVA-Computer-Vision-Lab/ovmono3d?style=social)](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)
 
 </div>
 </div>
@@ -63,7 +63,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 **Jin Yao**, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
 
- [Paper](https://aclanthology.org/2024.acl-long.457/)｜[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM)｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
+ [Paper](https://aclanthology.org/2024.acl-long.457/)｜[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM) [![GitHub stars](https://img.shields.io/github/stars/yaojin17/Unlearning_LLM?style=social)](https://github.com/yaojin17/Unlearning_LLM)｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
 
 <!-- **ACL 2024** -->
 </div>

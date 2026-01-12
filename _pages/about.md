@@ -69,6 +69,18 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 </div>
 </div>
 
+<br>
+
+# 📚 Teaching
+
+- Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring25/index.html))
+- Teaching assistant, 3D Computer Vision (CS 6501), University of Virginia, Fall 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/3dv_fall25/index.html))
+- Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2026 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring26/index.html))
+
+# 🗂️ Committee Services
+
+- Reviewer for 3DV 2026, TMLR, AAAI 2026, IJCAI 2026
+
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->

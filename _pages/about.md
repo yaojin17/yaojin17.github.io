@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. My research interest lies in 3D Vision. 
+I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. My research interest lies in 3D Vision. Currently, I am a research intern at Uber, working on end-to-end autonomous driving.
 
 
 Previously, I received my Bachelor’s Degree in Artificial Intelligence from [Shanghai Jiao Tong University] in 2023.
@@ -28,6 +28,19 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 <br>
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/vlga.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**
+
+**Jin Yao**, Dhruva Dixith Kurra, Tom Lampo, Zezhou Cheng, Danhua Guo, Burhan Yaman
+
+[Project Page](https://yaojin17.github.io/VLGA/) ｜arXiv (coming soon) ｜[Code (coming soon)](https://github.com/yaojin17/VLGA)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/LA3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

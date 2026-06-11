@@ -36,7 +36,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 **Jin Yao**, Dhruva Dixith Kurra, Tom Lampo, Zezhou Cheng, Danhua Guo, Burhan Yaman
 
-[Project Page](https://yaojin17.github.io/VLGA/) ｜arXiv (coming soon) ｜[Code (coming soon)](https://github.com/yaojin17/VLGA)
+[arXiv](https://arxiv.org/abs/2606.12396) ｜[Project Page](https://yaojin17.github.io/VLGA/) ｜[Code (coming soon)](https://github.com/yaojin17/VLGA)
 
 </div>
 </div>

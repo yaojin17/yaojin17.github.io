@@ -32,7 +32,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
       {% if author.wechat %}
-        <li><span title="WeChat: {{ author.wechat }}" style="cursor: help;"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</span></li>
+        <li><span class="wechat-contact" data-wechat="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</span></li>
       {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Resume</a></li>
@@ -133,7 +133,7 @@
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.wechat %}
-        <span title="WeChat: {{ author.wechat }}" style="cursor: help;"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></span>
+        <span class="wechat-contact" data-wechat="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></span>
       {% endif %}
       {% if author.cv %}
         <a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i></a>

@@ -20,4 +20,43 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<style>
+  /* WeChat contact tooltip — instant, styled bubble */
+  .wechat-contact { position: relative; cursor: default; }
+  .wechat-contact::after {
+    content: attr(data-wechat);
+    position: absolute;
+    left: 0;
+    bottom: calc(100% + 8px);
+    background: #2d2d2d;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 0.8em;
+    line-height: 1.2;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(4px);
+    transition: opacity 0.12s ease, transform 0.12s ease;
+    z-index: 1000;
+    pointer-events: none;
+  }
+  .wechat-contact::before {
+    content: "";
+    position: absolute;
+    left: 12px;
+    bottom: calc(100% + 3px);
+    border: 5px solid transparent;
+    border-top-color: #2d2d2d;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.12s ease;
+    z-index: 1000;
+  }
+  .wechat-contact:hover::after { opacity: 1; visibility: visible; transform: translateY(0); }
+  .wechat-contact:hover::before { opacity: 1; visibility: visible; }
+</style>
+
 <!-- end custom head snippets -->

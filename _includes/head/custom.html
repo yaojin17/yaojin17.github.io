@@ -57,6 +57,78 @@
   }
   .wechat-contact:hover::after { opacity: 1; visibility: visible; transform: translateY(0); }
   .wechat-contact:hover::before { opacity: 1; visibility: visible; }
+
+  /* GitHub star badges — styled locally, populated from GitHub's API */
+  .github-stars {
+    display: inline-flex;
+    height: 20px;
+    margin-left: 0.15em;
+    overflow: hidden;
+    border-radius: 3px;
+    color: #fff !important;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 11px;
+    line-height: 20px;
+    text-decoration: none !important;
+    vertical-align: text-bottom;
+    white-space: nowrap;
+  }
+  .github-stars__label,
+  .github-stars__count {
+    display: inline-block;
+    padding: 0 6px;
+  }
+  .github-stars__label { background: #555; }
+  .github-stars__label i { margin-right: 4px; }
+  .github-stars__count {
+    min-width: 18px;
+    background: #007ec6;
+    text-align: center;
+  }
+  .github-stars:hover .github-stars__label { background: #333; }
+  .github-stars:hover .github-stars__count { background: #0069a6; }
+  .github-stars:focus-visible {
+    outline: 2px solid #52adc8;
+    outline-offset: 2px;
+  }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    Array.prototype.forEach.call(document.querySelectorAll("[data-github-stars]"), function (badge) {
+      var repository = badge.getAttribute("data-github-stars");
+      var count = badge.querySelector(".github-stars__count");
+
+      function markUnavailable() {
+        count.textContent = "—";
+        badge.setAttribute("aria-label", "GitHub star count unavailable for " + repository);
+      }
+
+      if (!window.fetch) {
+        markUnavailable();
+        return;
+      }
+
+      window.fetch("https://api.github.com/repos/" + repository, {
+        headers: { "Accept": "application/vnd.github+json" }
+      }).then(function (response) {
+        if (!response.ok) {
+          markUnavailable();
+          return null;
+        }
+        return response.json();
+      }).then(function (data) {
+        if (!data || typeof data.stargazers_count !== "number") {
+          markUnavailable();
+          return;
+        }
+
+        var formattedCount = data.stargazers_count.toLocaleString("en-US");
+        count.textContent = formattedCount;
+        badge.setAttribute("aria-label", repository + " has " + formattedCount + " GitHub stars");
+      }, markUnavailable);
+    });
+  });
+</script>
 
 <!-- end custom head snippets -->

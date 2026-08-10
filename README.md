@@ -65,6 +65,24 @@ Some examples:
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
+## Live GitHub Star Badges
+
+Paper entries use a local badge component whose count comes directly from GitHub's public repository API. To add another badge in `_pages/about.md`, copy an existing `.github-stars` link and update all three repository-specific fields: `data-github-stars`, `href`, and `aria-label`. The badge styling and loading logic live in `_includes/head/custom.html`. If GitHub's API is temporarily unavailable, the badge displays `—` instead of an error code.
+
+```html
+<a class="github-stars" data-github-stars="OWNER/REPO" href="https://github.com/OWNER/REPO/stargazers" aria-label="Loading GitHub stars for REPO"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
+```
+
+## Troubleshooting
+
+### A GitHub star badge shows an error code or an incorrect count
+
+- **Problem:** A badge can display a value such as `403` even though the repository has a different number of stars.
+- **Root cause:** Third-party badge providers may cache a GitHub API error and render the HTTP status code as the star count. This can happen while the repository and homepage markup are both correct.
+- **Solution:** Keep the local `.github-stars` component, compare the value with `https://api.github.com/repos/OWNER/REPO`, and verify that `_pages/about.md` contains no third-party star badge URL.
+- **Lesson learned:** Treat GitHub's repository API as the source of truth and fail closed with `—` when it is unavailable.
+- **❌ Not viable:** Switching between `shields.io` and `badgen.net`. Both providers have returned incorrect or unavailable star badges for this site, so changing providers only moves the same failure mode.
+
 # Acknowledges
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.

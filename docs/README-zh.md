@@ -60,6 +60,24 @@ AcadHomepage
 1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
 1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
 
+## GitHub Stars 动态 Badge
+
+论文条目使用本站的 badge 组件，数字直接来自 GitHub 公开的仓库 API。在 `_pages/about.md` 中添加新 badge 时，复制现有的 `.github-stars` 链接，并同时更新 `data-github-stars`、`href` 和 `aria-label` 三个与仓库相关的字段。样式和加载逻辑位于 `_includes/head/custom.html`。如果 GitHub API 暂时不可用，badge 会显示 `—`，而不是错误码。
+
+```html
+<a class="github-stars" data-github-stars="OWNER/REPO" href="https://github.com/OWNER/REPO/stargazers" aria-label="Loading GitHub stars for REPO"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
+```
+
+## 故障排查
+
+### GitHub star badge 显示错误码或错误数字
+
+- **问题：** badge 可能显示 `403` 等数字，但仓库的实际 star 数不同。
+- **根因：** 第三方 badge 服务可能缓存 GitHub API 错误，并将 HTTP 状态码渲染成 star 数；此时仓库和主页标记都可能正常。
+- **解决：** 保留本地 `.github-stars` 组件，使用 `https://api.github.com/repos/OWNER/REPO` 核对数字，并确认 `_pages/about.md` 中没有第三方 star badge URL。
+- **经验：** 以 GitHub 仓库 API 为唯一数据源；API 不可用时显示 `—`，不把错误码当成数据。
+- **❌ 不可行：** 在 `shields.io` 和 `badgen.net` 之间切换。两个服务都曾经为本站返回错误或不可用的 star badge，换服务商只是转移同一类故障。
+
 # Acknowledges
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.

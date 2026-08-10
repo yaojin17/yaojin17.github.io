@@ -50,7 +50,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 **Jin Yao**\*, Radowan Mahmud Redoy\*, Sebastian Elbaum, Matthew B. Dwyer, Zezhou Cheng
 
 [Paper](https://openreview.net/pdf?id=Q2fU0JDHuW) ｜[Project Page](https://uva-computer-vision-lab.github.io/LabelAny3D/)
-｜[Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) [![GitHub stars](https://badgen.net/github/stars/UVA-Computer-Vision-Lab/LabelAny3D?icon=github&label=stars)](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D)
+｜[Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/LabelAny3D" href="https://github.com/UVA-Computer-Vision-Lab/LabelAny3D/stargazers" aria-label="Loading GitHub stars for LabelAny3D"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
 
 
 </div>
@@ -64,7 +64,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 **Jin Yao**, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
 
-[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) [![GitHub stars](https://badgen.net/github/stars/UVA-Computer-Vision-Lab/ovmono3d?icon=github&label=stars)](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)
+[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/ovmono3d" href="https://github.com/UVA-Computer-Vision-Lab/ovmono3d/stargazers" aria-label="Loading GitHub stars for ovmono3d"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
 
 </div>
 </div>
@@ -76,7 +76,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 **Jin Yao**, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
 
- [Paper](https://aclanthology.org/2024.acl-long.457/)｜[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM) [![GitHub stars](https://badgen.net/github/stars/yaojin17/Unlearning_LLM?icon=github&label=stars)](https://github.com/yaojin17/Unlearning_LLM)｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
+ [Paper](https://aclanthology.org/2024.acl-long.457/)｜[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM) <a class="github-stars" data-github-stars="yaojin17/Unlearning_LLM" href="https://github.com/yaojin17/Unlearning_LLM/stargazers" aria-label="Loading GitHub stars for Unlearning_LLM"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
 
 <!-- **ACL 2024** -->
 </div>

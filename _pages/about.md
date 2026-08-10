@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. My research interest lies in 3D Vision. Currently, I am a research intern at Uber, working on end-to-end autonomous driving.
+I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. My research interest lies in 3D Vision.
 
 
 Previously, I received my Bachelor’s Degree in Artificial Intelligence from [Shanghai Jiao Tong University] in 2023.
@@ -108,7 +108,7 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2026.05 - 2026.08*, Research Intern at [Uber](https://www.uber.com/), working on Vision-Language-Action Models and World Action Models for autonomous driving.

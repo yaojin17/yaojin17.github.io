@@ -42,6 +42,19 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/papers/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Open Vocabulary Monocular 3D Object Detection**
+
+**Jin Yao**, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
+
+[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/ovmono3d" href="https://github.com/UVA-Computer-Vision-Lab/ovmono3d/stargazers" aria-label="Loading GitHub stars for ovmono3d"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/LA3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,19 +65,6 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 [Paper](https://openreview.net/pdf?id=Q2fU0JDHuW) ｜[Project Page](https://uva-computer-vision-lab.github.io/LabelAny3D/)
 ｜[Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/LabelAny3D" href="https://github.com/UVA-Computer-Vision-Lab/LabelAny3D/stargazers" aria-label="Loading GitHub stars for LabelAny3D"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/papers/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Open Vocabulary Monocular 3D Object Detection**
-
-**Jin Yao**, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
-
-[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/ovmono3d" href="https://github.com/UVA-Computer-Vision-Lab/ovmono3d/stargazers" aria-label="Loading GitHub stars for ovmono3d"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
 
 </div>
 </div>

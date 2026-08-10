@@ -111,4 +111,4 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.05 - 2026.08*, Research Intern at [Uber](https://www.uber.com/), working on Vision-Language-Action Models and World Action Models for autonomous driving.
+- *2026.05 - 2026.08*, Research Intern at [Uber](https://www.uber.com/): Vision-Language-Action Models and World Action Models for autonomous driving.

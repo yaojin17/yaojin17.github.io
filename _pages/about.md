@@ -91,7 +91,7 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
     <p>Research Intern, <em>2026.05 - 2026.08</em></p>
 
-    <p>Vision-Language-Action Models and World Action Models for autonomous driving.</p>
+    <p>Vision-Language-Action Models and World Action Models for autonomous driving</p>
   </div>
   <div class="paper-box-image">
     <div>

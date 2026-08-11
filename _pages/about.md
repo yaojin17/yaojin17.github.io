@@ -12,10 +12,9 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. My research interest lies in 3D Vision.
+I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. Previously, I received my Bachelor’s Degree in Artificial Intelligence from [Shanghai Jiao Tong University] in 2023.
 
-
-Previously, I received my Bachelor’s Degree in Artificial Intelligence from [Shanghai Jiao Tong University] in 2023.
+My research interests lie in 3D computer vision, particularly 3D understanding, reconstruction, and generation. I am also interested in their applications in physical AI, including autonomous driving and robotics.
 
 
 {% include_relative mappings.md %}
@@ -84,6 +83,10 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 
 <br>
 
+# 💻 Internships
+
+- *2026.05 - 2026.08*, Research Intern at [Uber](https://www.uber.com/): Vision-Language-Action Models and World Action Models for autonomous driving.
+
 # 📚 Teaching
 
 - Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring25/index.html))
@@ -109,6 +112,3 @@ Previously, I received my Bachelor’s Degree in Artificial Intelligence from [S
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2026.05 - 2026.08*, Research Intern at [Uber](https://www.uber.com/): Vision-Language-Action Models and World Action Models for autonomous driving.

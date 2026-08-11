@@ -104,9 +104,9 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 # 📚 Teaching
 
-- Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring25/index.html))
-- Teaching assistant, 3D Computer Vision (CS 6501), University of Virginia, Fall 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/3dv_fall25/index.html))
 - Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2026 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring26/index.html))
+- Teaching assistant, 3D Computer Vision (CS 6501), University of Virginia, Fall 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/3dv_fall25/index.html))
+- Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring25/index.html))
 
 # 🗂️ Academic Service
 

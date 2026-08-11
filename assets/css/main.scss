@@ -123,8 +123,7 @@ h1:before, .anchor:before {
     padding: 2em 0 2em 0;
 
     .paper-box-image {
-        display: flex;
-        justify-content: flex-end;
+        justify-content: right;
         min-width: 20%;
         max-width: 40%;
         order: 2;

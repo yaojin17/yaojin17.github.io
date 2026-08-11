@@ -83,7 +83,7 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 <br>
 
-# 💻 Internships
+# 💻 Experiences
 
 - *2026.05 - 2026.08*, Research Intern at [Uber](https://www.uber.com/): Vision-Language-Action Models and World Action Models for autonomous driving.
 

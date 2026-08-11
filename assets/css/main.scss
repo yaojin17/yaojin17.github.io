@@ -113,3 +113,36 @@ h1:before, .anchor:before {
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     letter-spacing: 1px;
 }
+
+.experience-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0.5rem 0 1.5rem;
+}
+
+.experience-item__logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 3.75rem;
+    width: 3.75rem;
+    color: #111;
+    font-size: 2.75rem;
+    line-height: 1;
+    text-decoration: none;
+
+    &:hover {
+        color: #111;
+    }
+
+    &:focus {
+        outline: 2px solid #0052cc;
+        outline-offset: 0.25rem;
+    }
+}
+
+.experience-item__content {
+    min-width: 0;
+    margin: 0;
+}

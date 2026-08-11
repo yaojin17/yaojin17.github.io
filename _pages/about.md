@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at [Computer Vision Lab] at the University of Virginia, supervised by Prof. [Zezhou Cheng]. Previously, I received my Bachelor’s Degree in Artificial Intelligence from [Shanghai Jiao Tong University] in 2023.
+I am a PhD student in the [Computer Vision Lab] at the University of Virginia, advised by Prof. [Zezhou Cheng]. I received my bachelor’s degree in Artificial Intelligence from [Shanghai Jiao Tong University] in 2023.
 
 My research interests lie in 3D computer vision, particularly 3D understanding, reconstruction, and generation. I am also interested in their applications in physical AI, including autonomous driving and robotics.
 

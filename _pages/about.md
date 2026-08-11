@@ -85,11 +85,19 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 # 💻 Experiences
 
-<div class="experience-item">
-  <a class="experience-item__logo" href="https://www.uber.com/" aria-label="Uber homepage">
-    <i class="fab fa-uber" aria-hidden="true"></i>
-  </a>
-  <p class="experience-item__content"><em>2026.05 - 2026.08</em>, Research Intern at <a href="https://www.uber.com/">Uber</a>: Vision-Language-Action Models and World Action Models for autonomous driving.</p>
+<div class="paper-box-right">
+  <div class="paper-box-text">
+    <p><a href="https://www.uber.com/">Uber</a></p>
+    <p>Research Intern, <em>2026.05 - 2026.08</em></p>
+    <p>Vision-Language-Action Models and World Action Models for autonomous driving.</p>
+  </div>
+  <div class="paper-box-image">
+    <div>
+      <a href="https://www.uber.com/">
+        <img src="images/uber.svg" alt="Uber logo" width="100" class="exp-logo">
+      </a>
+    </div>
+  </div>
 </div>
 
 # 📚 Teaching

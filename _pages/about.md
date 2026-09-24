@@ -28,6 +28,19 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/click3r.png' alt="Click3R overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**
+
+**Jin Yao**, Hao Gu, Zezhou Cheng
+
+Paper (coming soon) ｜ Project Page (coming soon) ｜ Code (coming soon)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/vlga.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

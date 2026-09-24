@@ -33,7 +33,7 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 **Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**
 
-**Jin Yao**, Hao Gu, Zezhou Cheng
+Hao Gu, **Jin Yao**, Zezhou Cheng
 
 Paper (coming soon) ｜ Project Page (coming soon) ｜ Code (coming soon)
 

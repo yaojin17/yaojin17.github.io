@@ -24,83 +24,80 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<br>
 
-# 📝 Selected Publications 
+# 📝 Selected Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/click3r.png' alt="Click3R overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**
 
-Hao Gu, **Jin Yao**, Zezhou Cheng
+Hao Gu, <span class="me">Jin Yao</span>, Zezhou Cheng
 
-Paper (coming soon) ｜ Project Page (coming soon) ｜ Code (coming soon)
+Paper (coming soon) <span class="sep">|</span> Project Page (coming soon) <span class="sep">|</span> Code (coming soon)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/vlga.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/vlga.jpg' alt="VLGA overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**
 
-**Jin Yao**, Dhruva Dixith Kurra, Tom Lampo, Zezhou Cheng, Danhua Guo, Burhan Yaman
+<span class="me">Jin Yao</span>, Dhruva Dixith Kurra, Tom Lampo, Zezhou Cheng, Danhua Guo, Burhan Yaman
 
-[arXiv](https://arxiv.org/abs/2606.12396) ｜[Project Page](https://yaojin17.github.io/VLGA/) ｜[Code (coming soon)](https://github.com/yaojin17/VLGA)
+[arXiv](https://arxiv.org/abs/2606.12396) <span class="sep">|</span> [Project Page](https://yaojin17.github.io/VLGA/) <span class="sep">|</span> [Code (coming soon)](https://github.com/yaojin17/VLGA)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/papers/ovmono3d_coco.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/papers/ovmono3d_coco.jpg' alt="OVMono3D overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Open Vocabulary Monocular 3D Object Detection**
 
-**Jin Yao**, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
+<span class="me">Jin Yao</span>, Hao Gu, Xuweiyi Chen, Jiayun Wang, Zezhou Cheng
 
-[arXiv](https://arxiv.org/abs/2411.16833) ｜[Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/)｜[Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/ovmono3d" href="https://github.com/UVA-Computer-Vision-Lab/ovmono3d/stargazers" aria-label="Loading GitHub stars for ovmono3d"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
+[arXiv](https://arxiv.org/abs/2411.16833) <span class="sep">|</span> [Project Page](https://uva-computer-vision-lab.github.io/ovmono3d/) <span class="sep">|</span> [Code](https://github.com/UVA-Computer-Vision-Lab/ovmono3d) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/ovmono3d" href="https://github.com/UVA-Computer-Vision-Lab/ovmono3d/stargazers" aria-label="Loading GitHub stars for ovmono3d"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/LA3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/LA3D.png' alt="LabelAny3D overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LabelAny3D: Label Any Object 3D in the Wild**
 
-**Jin Yao**\*, Radowan Mahmud Redoy\*, Sebastian Elbaum, Matthew B. Dwyer, Zezhou Cheng
+<span class="me">Jin Yao</span>\*, Radowan Mahmud Redoy\*, Sebastian Elbaum, Matthew B. Dwyer, Zezhou Cheng
 
-[Paper](https://openreview.net/pdf?id=Q2fU0JDHuW) ｜[Project Page](https://uva-computer-vision-lab.github.io/LabelAny3D/)
-｜[Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/LabelAny3D" href="https://github.com/UVA-Computer-Vision-Lab/LabelAny3D/stargazers" aria-label="Loading GitHub stars for LabelAny3D"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
+[Paper](https://openreview.net/pdf?id=Q2fU0JDHuW) <span class="sep">|</span> [Project Page](https://uva-computer-vision-lab.github.io/LabelAny3D/) <span class="sep">|</span> [Code](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) <a class="github-stars" data-github-stars="UVA-Computer-Vision-Lab/LabelAny3D" href="https://github.com/UVA-Computer-Vision-Lab/LabelAny3D/stargazers" aria-label="Loading GitHub stars for LabelAny3D"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>
 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/papers/llmunlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/papers/llmunlearning.png' alt="LLM unlearning overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Machine Unlearning of Pre-trained Large Language Models**
 
-**Jin Yao**, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
+<span class="me">Jin Yao</span>, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue
 
- [Paper](https://aclanthology.org/2024.acl-long.457/)｜[arXiv](https://arxiv.org/abs/2402.15159)｜[Code](https://github.com/yaojin17/Unlearning_LLM) <a class="github-stars" data-github-stars="yaojin17/Unlearning_LLM" href="https://github.com/yaojin17/Unlearning_LLM/stargazers" aria-label="Loading GitHub stars for Unlearning_LLM"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a>｜[Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
+[Paper](https://aclanthology.org/2024.acl-long.457/) <span class="sep">|</span> [arXiv](https://arxiv.org/abs/2402.15159) <span class="sep">|</span> [Code](https://github.com/yaojin17/Unlearning_LLM) <a class="github-stars" data-github-stars="yaojin17/Unlearning_LLM" href="https://github.com/yaojin17/Unlearning_LLM/stargazers" aria-label="Loading GitHub stars for Unlearning_LLM"><span class="github-stars__label"><i class="fab fa-github" aria-hidden="true"></i>stars</span><span class="github-stars__count" aria-live="polite">…</span></a> <span class="sep">|</span> [Data](https://huggingface.co/datasets/llmunlearn/unlearn_dataset)
 
 <!-- **ACL 2024** -->
 </div>
 </div>
 
-<br>
 
-# 💻 Experiences
+# 💻 Experiences {#experiences}
 
 <div class="paper-box-right">
   <div class="paper-box-text">
-    <p>Uber</p>
+    <p><strong>Uber</strong></p>
 
     <p>Research Intern, <em>2026.05 - 2026.08</em></p>
 
@@ -115,13 +112,13 @@ Paper (coming soon) ｜ Project Page (coming soon) ｜ Code (coming soon)
   </div>
 </div>
 
-# 📚 Teaching
+# 📚 Teaching {#teaching}
 
-- Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2026 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring26/index.html))
-- Teaching assistant, 3D Computer Vision (CS 6501), University of Virginia, Fall 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/3dv_fall25/index.html))
-- Teaching assistant, Computer Vision (CS 4501), University of Virginia, Spring 2025 ([link](https://uva-computer-vision-lab.github.io/teaching/cv_spring25/index.html))
+- Teaching assistant, [Computer Vision (CS 4501)](https://uva-computer-vision-lab.github.io/teaching/cv_spring26/index.html), University of Virginia, Spring 2026
+- Teaching assistant, [3D Computer Vision (CS 6501)](https://uva-computer-vision-lab.github.io/teaching/3dv_fall25/index.html), University of Virginia, Fall 2025
+- Teaching assistant, [Computer Vision (CS 4501)](https://uva-computer-vision-lab.github.io/teaching/cv_spring25/index.html), University of Virginia, Spring 2025
 
-# 🗂️ Academic Service
+# 🗂️ Academic Service {#service}
 
 - Reviewer for 3DV 2026, TMLR, AAAI 2026, IJCAI 2026
 

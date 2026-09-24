@@ -21,42 +21,52 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
-  /* WeChat contact tooltip — instant, styled bubble */
-  .wechat-contact { position: relative; cursor: default; }
-  .wechat-contact::after {
-    content: attr(data-wechat);
+  /* WeChat QR code popover — shown on hover (desktop) or tap/focus (mobile) */
+  .wechat-contact { position: relative; cursor: pointer; outline: none; }
+  .wechat-contact .wechat-qr {
     position: absolute;
-    left: 0;
-    bottom: calc(100% + 8px);
-    background: #2d2d2d;
-    color: #fff;
-    padding: 5px 10px;
-    border-radius: 6px;
-    font-size: 0.8em;
-    line-height: 1.2;
-    white-space: nowrap;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    left: calc(100% + 12px);
+    top: 50%;
+    width: 240px;
+    max-width: none;
+    height: auto;
+    padding: 6px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.16);
     opacity: 0;
     visibility: hidden;
-    transform: translateY(4px);
-    transition: opacity 0.12s ease, transform 0.12s ease;
+    transform: translate(-4px, -50%);
+    transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
     z-index: 1000;
     pointer-events: none;
   }
-  .wechat-contact::before {
-    content: "";
-    position: absolute;
-    left: 12px;
-    bottom: calc(100% + 3px);
-    border: 5px solid transparent;
-    border-top-color: #2d2d2d;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.12s ease;
-    z-index: 1000;
+  .wechat-contact:hover .wechat-qr,
+  .wechat-contact:focus .wechat-qr,
+  .wechat-contact:focus-within .wechat-qr {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(0, -50%);
   }
-  .wechat-contact:hover::after { opacity: 1; visibility: visible; transform: translateY(0); }
-  .wechat-contact:hover::before { opacity: 1; visibility: visible; }
+  /* the sidebar's transform makes it its own stacking layer; lift it above the page body */
+  .sidebar { z-index: 20; }
+  /* below 1200px the sidebar isn't sticky (static), so give it a position for z-index to apply */
+  @media (max-width: 1199.98px) { .sidebar { position: relative; } }
+  /* narrow screens: icon row at the top, so drop the card below the row, right-aligned */
+  .author__urls_sm { position: relative; }
+  .author__urls_sm .wechat-contact { position: static; }
+  .author__urls_sm .wechat-contact .wechat-qr {
+    left: auto;
+    right: 0;
+    top: calc(100% + 10px);
+    width: 220px;
+    transform: translateY(-4px);
+  }
+  .author__urls_sm .wechat-contact:hover .wechat-qr,
+  .author__urls_sm .wechat-contact:focus .wechat-qr,
+  .author__urls_sm .wechat-contact:focus-within .wechat-qr {
+    transform: translateY(0);
+  }
 
   /* GitHub star badges — styled locally, populated from GitHub's API */
   .github-stars {

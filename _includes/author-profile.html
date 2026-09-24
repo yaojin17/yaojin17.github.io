@@ -31,8 +31,8 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
-      {% if author.wechat %}
-        <li><span class="wechat-contact" data-wechat="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</span></li>
+      {% if author.wechat_qr %}
+        <li><span class="wechat-contact" tabindex="0"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat<img class="wechat-qr" src="{{ author.wechat_qr }}" alt="WeChat QR code" loading="lazy"></span></li>
       {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Resume</a></li>
@@ -132,8 +132,8 @@
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.wechat %}
-        <span class="wechat-contact" data-wechat="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></span>
+      {% if author.wechat_qr %}
+        <span class="wechat-contact" tabindex="0" aria-label="WeChat"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i><img class="wechat-qr" src="{{ author.wechat_qr }}" alt="WeChat QR code" loading="lazy"></span>
       {% endif %}
       {% if author.cv %}
         <a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i></a>

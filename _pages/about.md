@@ -27,14 +27,14 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 # 📝 Selected Publications {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/click3r.png' alt="Click3R overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/click3r.webp' alt="Click3R teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**
 
 Hao Gu\*, <span class="me">Jin Yao</span>\*, Zezhou Cheng
 
-Paper (coming soon) <span class="sep">|</span> Project Page (coming soon) <span class="sep">|</span> Code (coming soon)
+Paper (coming soon) <span class="sep">|</span> [Project Page](https://uva-computer-vision-lab.github.io/click3r/) <span class="sep">|</span> [Code](https://github.com/UVA-Computer-Vision-Lab/click3r)
 
 </div>
 </div>

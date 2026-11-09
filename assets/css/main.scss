@@ -72,7 +72,7 @@
         box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
         aspect-ratio: 2 / 1;
 
-        img {
+        img, video {
             width: 100%;
             height: 100%;
             object-fit: contain;
@@ -81,7 +81,8 @@
         }
     }
 
-    &:hover .paper-box-image img {
+    &:hover .paper-box-image img,
+    &:hover .paper-box-image video {
         transform: scale(1.035);
     }
 

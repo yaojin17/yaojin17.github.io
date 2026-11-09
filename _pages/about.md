@@ -27,7 +27,7 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 # 📝 Selected Publications {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/click3r.webp' alt="Click3R teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><video src='images/papers/click3r.mp4' poster='images/papers/click3r_poster.jpg' autoplay muted loop playsinline aria-label="Click3R examples" width="100%"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**

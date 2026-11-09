@@ -2,7 +2,7 @@
 
 <!-- UVa-->
 [University of Virginia]: https://www.virginia.edu/
-[Zezhou Cheng]: https://sites.google.com/site/zezhoucheng/
+[Zezhou Cheng]: https://www.cs.virginia.edu/~zc3bp/
 [Computer Vision Lab]: https://uva-computer-vision-lab.github.io/
 [Jiayun Wang]: https://pwang.pw/
 <!-- SJTU -->

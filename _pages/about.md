@@ -34,7 +34,7 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 Hao Gu\*, <span class="me">Jin Yao</span>\*, Zezhou Cheng
 
-Paper (coming soon) <span class="sep">|</span> [Project Page](https://uva-computer-vision-lab.github.io/click3r/) <span class="sep">|</span> [Code](https://github.com/UVA-Computer-Vision-Lab/click3r)
+[arXiv](https://arxiv.org/abs/2611.12875) <span class="sep">|</span> [Project Page](https://uva-computer-vision-lab.github.io/click3r/) <span class="sep">|</span> [Code](https://github.com/UVA-Computer-Vision-Lab/click3r)
 
 </div>
 </div>

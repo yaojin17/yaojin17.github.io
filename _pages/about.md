@@ -27,6 +27,17 @@ My research interests lie in 3D computer vision, particularly 3D understanding, 
 
 # 📝 Selected Publications {#publications}
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/agentap.jpg' alt="Tracking Any Point with Agentic Visual Reasoning teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Tracking Any Point with Agentic Visual Reasoning**
+
+Xuweiyi Chen\*, <span class="me">Jin Yao</span>\*, Linzhan Mou\*, Lei Gong\*, Di Liu, Cheng Zhang, Ziqiao Ma, Sihan Xu, Adam W. Harley, Shengyi Qian, Zezhou Cheng
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><video src='images/papers/click3r.mp4' poster='images/papers/click3r_poster.jpg' autoplay muted loop playsinline aria-label="Click3R examples" width="100%"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
